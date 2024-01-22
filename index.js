@@ -140,6 +140,7 @@ const game = ()=>{
         const playAgain = prompt("Do you want to play again (y/n)?");
 
         if(playAgain != 'y') break;
+        console.log("hello");
 
     }
 
