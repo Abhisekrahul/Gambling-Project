@@ -143,6 +143,7 @@ const game = ()=>{
         console.log("hello");
         console.log("HII");
         console.log("HII");
+        console.log("newww");
 
     }
 
