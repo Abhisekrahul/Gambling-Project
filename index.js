@@ -142,6 +142,7 @@ const game = ()=>{
         if(playAgain != 'y') break;
         console.log("hello");
         console.log("HII");
+        console.log("HII");
 
     }
 
